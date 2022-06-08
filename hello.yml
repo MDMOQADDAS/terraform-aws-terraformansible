@@ -1,0 +1,14 @@
+- hosts: webserver
+  tasks:
+          - name: Installing Web Server
+            package:
+                    name: httpd
+                    state: latest
+          - name: Configuring Web Server
+            copy:
+                    content: "<div style='text-align:center'><h1>Hi There</h1><p> Welcome in Automation World</p></div>"
+                    dest: /var/www/html/index.html
+          - name: start the web server
+            systemd:
+                    name: httpd
+                    state: started
