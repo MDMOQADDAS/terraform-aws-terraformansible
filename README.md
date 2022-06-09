@@ -42,6 +42,7 @@ Example<br>
     ```
     Change AMI Id, Instnce type, key name and path of module 
     
+    
     ![image](https://user-images.githubusercontent.com/69861558/172780921-3d7810fc-c275-497e-9b3a-b53e9160fd82.png)
     
     <b> Step6: Open `ansible.cfg` file and replace `private_key_file`
