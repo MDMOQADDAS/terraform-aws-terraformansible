@@ -59,3 +59,9 @@ Example<br>
   terraform apply
   ```
 
+![image](https://user-images.githubusercontent.com/69861558/172784236-f856a525-a51a-4284-8d56-0ca96aa897f6.png)
+
+![image](https://user-images.githubusercontent.com/69861558/172784911-fcc724a5-830f-4f6d-a4eb-2e4d46362c07.png)
+![image](https://user-images.githubusercontent.com/69861558/172784985-6a527899-b703-480d-af84-627063c26c6c.png)
+
+![image](https://user-images.githubusercontent.com/69861558/172784795-29751561-c2d2-495b-b675-c4d8f2b17152.png
