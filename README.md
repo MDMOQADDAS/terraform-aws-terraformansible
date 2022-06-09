@@ -37,9 +37,11 @@ Example<br>
   ![image](https://user-images.githubusercontent.com/69861558/172780655-4de08f26-2dc9-4cbd-b298-76718c0f208d.png)
 
   <b>Step5: Copy above command output and open `variables.tf` file
+    
     ```
     vim variables.tf
     ```
+    <br>
     Change AMI Id, Instnce type, key name and path of module 
     
     
