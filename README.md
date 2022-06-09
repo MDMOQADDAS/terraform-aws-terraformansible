@@ -2,6 +2,8 @@
 # Requirement
 ### Terraform
 ### Ansible
+### AWS Iam Profile created
+### AWS Key Donwloaded
 
 # SetUp
 <b>step1: Create <file_name>.tf</b><br>
